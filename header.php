@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" type="text/css" href="style.css" />
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet">
   <title>Good news!</title>
 </head>
 <body>
@@ -14,3 +14,4 @@
       <h1 id="heading-title">My awwwesome blog</h1>
     </div>
     <article class="post">
+      <h2 id="post-title">Lorem Ipsum</h2>

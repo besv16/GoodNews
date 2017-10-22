@@ -72,7 +72,6 @@ section#wrapper {
 #heading {
   width: 100%;
   text-align: center;
-  border: 1px solid skyblue;
   margin: 10% 0 10% 0;
 }
 
@@ -80,6 +79,19 @@ section#wrapper {
 
 h1#heading-title {
   font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* Main section */
+
+article.post {
+  padding: 10% 0;
+}
+
+h2#post-title {
+  font-size: 25px;
   font-weight: 800;
   letter-spacing: 2px;
   text-transform: uppercase;
