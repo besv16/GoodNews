@@ -78,7 +78,12 @@ $posts = [
 
 $heart_src = 'http://localhost/htdocs/GoodNews/img/heart.png';
 
+
 foreach ($posts as $post) {
+
+  $newArray = [];
+
+  array_push($newArray, $post['date']);
 
   ?>
 
@@ -93,6 +98,8 @@ foreach ($posts as $post) {
   </article>
 
   <?php
+
 }
+
 
 require __DIR__.'/footer.php';
