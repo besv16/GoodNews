@@ -14,4 +14,4 @@
       <h1 id="heading-title">My awwwesome blog</h1>
     </div>
     <article class="post">
-      <h2 id="post-title">Lorem Ipsum</h2>
+      
