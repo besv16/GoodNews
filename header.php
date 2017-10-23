@@ -13,5 +13,3 @@
     <div id="heading">
       <h1 id="heading-title">My awwwesome blog</h1>
     </div>
-    <article class="post">
-      

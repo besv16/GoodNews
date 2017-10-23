@@ -1,4 +1,3 @@
-    </article>
   </section>
 </body>
 </html>

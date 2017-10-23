@@ -53,7 +53,7 @@ table {
 /* General */
 
 body {
-  background-color: plum;
+  background-color: white;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
 }
@@ -62,9 +62,8 @@ body {
 
 section#wrapper {
   width: 70%;
-  margin: 5% auto;
-  border: 1px solid hotpink;
-  padding: 5%;
+  margin: 0 auto;
+  padding: 10%;
 }
 
 /* Heading div with title */
@@ -72,7 +71,7 @@ section#wrapper {
 #heading {
   width: 100%;
   text-align: center;
-  margin: 10% 0 10% 0;
+  margin: 10% 0 20% 0;
 }
 
 /* Title in the heading div */
@@ -87,12 +86,23 @@ h1#heading-title {
 /* Main section */
 
 article.post {
-  padding: 10% 0;
+	margin-bottom: 8%;
+	background-color: #eee;
+  padding: 4%;
 }
 
-h2#post-title {
-  font-size: 25px;
-  font-weight: 800;
-  letter-spacing: 2px;
-  text-transform: uppercase;
+#title {
+	font-size: 26px;
+	font-weight: 800;
+	padding: 3% 0;
+}
+
+#bottom-info {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+div.info {
+	margin-right: 1%;
 }
