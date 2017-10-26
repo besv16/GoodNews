@@ -8,9 +8,6 @@ require __DIR__.'/functions.php';
 
 
 foreach ($posts as $post) {
-  // 
-  // $newArray = [];
-  // array_push($newArray, $post['date']);
 
   ?>
 
