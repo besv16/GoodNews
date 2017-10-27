@@ -11,5 +11,5 @@
 <body>
   <section id="wrapper">
     <div id="heading">
-      <h1 id="heading-title">My a://www.esome blog</h1>
+      <h1 id="heading-title">My a(://www.)esome blog</h1>
     </div>
