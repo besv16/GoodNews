@@ -1,7 +1,9 @@
 # GoodNews
 
+<img src="https://media.giphy.com/media/EQrkaIaVpXsuQ/giphy.gif" alt="GoodNews" width="80%">
+
 This repository contains a website containing my blog posts.
-Each post has a title, content text, author, which date the post was published and like counter.
+Each post has a title, content text, author, which date the post was published and a like counter.
 
 # Languages
 
