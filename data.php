@@ -73,4 +73,5 @@ $posts = [
   ],
 ];
 
+
 $heart_src = 'http://localhost/htdocs/GoodNews/img/heart.png';
