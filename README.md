@@ -30,3 +30,5 @@ This project is built with HTML, CSS and PHP.
 # Author
 
 Beatrice Svensson - WU17
+
+# Testing classmates
