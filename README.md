@@ -19,4 +19,4 @@ Each post has a title, content text, author and likes.
 
 2. Open up MAMP and start servers by pressing the "Start servers"-button.
 
-3. Press "Open start page" and then navigate to the right directory (the one containing your repository), and it should be all good!
+3. Press "Open start page" and then in the browser, navigate to the right directory (the one containing your repository) and file(s), and it should be all good!
