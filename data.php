@@ -72,6 +72,3 @@ $posts = [
   'likes' => 3
   ],
 ];
-
-
-$heart_src = __DIR__.'/img/heart.png';

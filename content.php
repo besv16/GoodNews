@@ -17,7 +17,7 @@ foreach ($posts as $post) {
     <div id="bottom-info">
       <div class="info"><?php echo $post['author']['fullname'];?></div>
       <div class="info"><?php echo $post['date'];?></div>
-      <div class="info"><img src="<?php echo $heart_src; ?>" width="12px" height="auto"></img><?php echo " " . $post['likes']; ?></div>
+      <div class="info"><img src="img/heart.png" width="12px" height="auto"></img><?php echo " " . $post['likes']; ?></div>
     </div>
   </article>
 
