@@ -3,6 +3,10 @@
 This repository contains a website containing my blog posts.
 Each post has a title, content text, author and likes.
 
+# Languages
+
+This project is built with HTML, CSS and PHP.
+
 # Installation instructions
 
 1. Clone or download this repository by pressing the green button (you will find the button above the list of my files which is shown above this section on this page) with the text "Clone or download".
