@@ -26,3 +26,7 @@ This project is built with HTML, CSS and PHP.
 2. Open up MAMP and start servers by pressing the "Start servers"-button.
 
 3. Press "Open start page" and then in the browser, navigate to the right directory (the one containing your repository) and file(s), and it should be all good!
+
+# Author
+
+Beatrice Svensson - WU17
