@@ -25,7 +25,7 @@ This project is built with HTML, CSS and PHP.
 
 2. Open up MAMP and start servers by pressing the "Start servers"-button.
 
-3. Press "Open start page" and then in the browser, change the address field to localhost/htdocs/GoodNews/content.php (this is the main page of the repository). Now it should be all good!
+3. Press "Open start page" and then in the browser, change the address field to localhost/htdocs/GoodNews-master/content.php (this is the main page of the repository). Now it should be all good!
 
 # Author
 
