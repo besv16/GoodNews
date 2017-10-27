@@ -11,7 +11,7 @@ Each post has a title, content text, author and likes.
 
 # Web server
 
-1. Set up a local web server like MAMP. If you have not installed MAMP already, visit this site. ????????and you are ready to go!
+1. Set up a local web server like MAMP. If you have not installed MAMP already, visit this site: https://www.mamp.info/en/downloads/ and download either for MAC or Windows.
 
 # Open repository in your local web server
 
