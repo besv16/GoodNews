@@ -1,3 +1,5 @@
+[![StyleCI](https://styleci.io/repos/107100334/shield?branch=master)](https://styleci.io/repos/107100334)
+
 # GoodNews
 
 <img src="https://media.giphy.com/media/EQrkaIaVpXsuQ/giphy.gif" alt="GoodNews" width="80%">
